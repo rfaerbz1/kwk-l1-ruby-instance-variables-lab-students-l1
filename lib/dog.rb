@@ -1,7 +1,7 @@
 # dog.rb
 class Dog 
   def name=
-    @this_dogs_name = 1
+    @this_dogs_name = "1"
   end
   
   def name 
